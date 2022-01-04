@@ -21,7 +21,7 @@
     "SIP",
     "Voip"
   ],
-  "author": "Henry Lin <zxcpoiu@gmail.com>",
+  "authors": "seventh",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/seventhaveinc/android-audio-utility/issues"

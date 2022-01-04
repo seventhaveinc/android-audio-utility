@@ -2,6 +2,9 @@
 //  RNInCallManager.m
 //  RNInCallManager
 //
+//  Created by Ian Yu-Hsun Lin (@ianlin) on 05/12/2017.
+//  Copyright © 2017 zxcpoiu. All rights reserved.
+//
 
 #import "RNInCallManager.h"
 
