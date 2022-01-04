@@ -10,6 +10,23 @@
     "type": "git",
     "url": "git+https://github.com/seventhaveinc/android-audio-utility.git"
   },
+  "keywords": [
+    "React",
+    "ReactNative",
+    "WebRTC",
+    "Phone",
+    "Call",
+    "InCall",
+    "Talk",
+    "SIP",
+    "Voip"
+  ],
+  "author": "Henry Lin <zxcpoiu@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seventhaveinc/android-audio-utility/issues"
+  },
+  "homepage": "https://github.com/seventhaveinc/android-audio-utility#readme",
   "peerDependencies": {
     "react-native": ">=0.40.0"
   }
